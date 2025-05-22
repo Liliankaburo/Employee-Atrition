@@ -1,2 +1,9 @@
-# Employee-Atrition
-This project explores employee turn over to HR officers in a company
+# EMPLOYEE ATTRITION ANALYSIS
+
+
+![image](https://github.com/user-attachments/assets/1ffb775b-74d1-41c8-a787-e1f663557ee9)
+
+
+
+
+
