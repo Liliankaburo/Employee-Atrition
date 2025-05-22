@@ -1,7 +1,7 @@
 # EMPLOYEE ATTRITION ANALYSIS
 
+![image](https://github.com/user-attachments/assets/39c4a242-c9b4-4512-853b-218c77825fc1)
 
-![image](https://github.com/user-attachments/assets/1ffb775b-74d1-41c8-a787-e1f663557ee9)
 
 
 
