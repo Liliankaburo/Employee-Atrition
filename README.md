@@ -30,6 +30,24 @@ Evaluation – assessed on a hold‑out 20 % test set.
 
 Interpretation – ranked feature importances; exported probability scores for each employee.
 
+## High‑Risk Employee Flagging
 
+Employees with a predicted attrition probability ≥ 0.85 are flagged as high risk. The top 10 high‑risk cases in the test set all corresponded to actual leavers, validating the model’s effectiveness.
 
+The full ranked list is saved to ***high_risk_employees.csv*** for HR review.
 
+ ## Stakeholders
+
+HR Business Partners – deploy insights to design retention actions.
+
+People Analytics – maintain model and monitor drift.
+
+Department Leaders – receive alerts for at‑risk staff in their teams.
+
+## CONCLUSION
+
+This project successfully demonstrated how machine learning can be applied to HR data to predict attrition, uncover risk factors, and enable proactive employee retention. The model can be integrated into HR workflows to monitor risk and inform data-driven decision-making.
+
+## CONTACTS
+Email ; lilian.k.mwabebe@gmail.com
+linkedin ; https://www.linkedin.com/in/lilian-kaburo/
